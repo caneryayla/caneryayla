@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Programming student from Istanbul 📍</h4>
+<h4 align="left">I'm a computer programming graduate of Arel University from Istanbul 📍</h4>
 
 ###
 
