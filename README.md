@@ -3,6 +3,7 @@
 ###
 
 <h4 align="left">I'm a computer programming graduate of Arel University from Istanbul 📍</h4>
+<h4 align="left">I work as a React Native developer 👨‍💻</h4>
 
 ###
 
