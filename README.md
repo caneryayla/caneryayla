@@ -2,8 +2,8 @@
 
 ###
 
-<h4 align="left">I'm a computer programming graduate of Arel University from Istanbul 📍</h4>
-<h4 align="left">I work as a React Native Developer 👨‍💻</h4>
+<h4 align="left">I a computer programming department graduate of Arel University from Istanbul 📍</h4>
+<h4 align="left">I a work as a React Native Developer 👨‍💻</h4>
 
 ###
 
