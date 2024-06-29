@@ -11,7 +11,7 @@
 
 ###
 
-<h5 align="left">📚 I'm currently learning React Native , Next Js<br><br>👨‍💻 I’m looking to collaborate on Front-end<br><br>📫 How to reach me caneryaylaa@icloud.com</h5>
+<h5 align="left">👨‍💻 I’m looking to collaborate on Front-end<br><br>📫 How to reach me caneryaylaa@icloud.com</h5>
 
 ###
 
